@@ -5,3 +5,4 @@ treatment and can avoid yield loss. Traditional methods rely on
 inefficient field scouting. In this project, we used machine learning
 methods to classify apple tree diseases. We used histogram of
 gradients (HOG) and pretrained CNNs to extract features.
+DATASET DOWNLOADED FROM: "https://www.kaggle.com/datasets/piantic/plantpathology-apple-dataset/download?datasetVersionNumber=1"
