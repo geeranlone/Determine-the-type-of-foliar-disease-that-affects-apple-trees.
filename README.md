@@ -1,0 +1,1 @@
+# Determine-the-type-of-foliar-disease-that-affects-apple-trees.
