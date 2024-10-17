@@ -50,23 +50,6 @@ After training, the model accuracy on the validation set was approximately 93.27
 
 
 
-
-
-numpy pandas Pillow matplotlib opencv-python tensorflow tqdm natsort
-
-markdown
-Copy code
-
-### Instructions
-
-1. **Create a `README.md` file**: Copy and paste the above content into a file named `README.md` in the root of your project directory.
-
-2. **Create a `requirements.txt` file**: Copy and paste the requirements into a file named `requirements.txt` in the root of your project directory.
-
-3. **Customize**: Feel free to customize the README with additional information, such as acknowledgments, usage examples, or a description of the dataset. 
-
-Once done, you can push these files to your GitHub repository! Let me know if you need further assistance.
-
-DATASET DOWNLOADED FROM: 
+## DATASET DOWNLOADED FROM: 
 ```
 "https://www.kaggle.com/datasets/piantic/plantpathology-apple-dataset/download?datasetVersionNumber=1"
