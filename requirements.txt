@@ -1,0 +1,8 @@
+numpy
+pandas
+Pillow
+matplotlib
+opencv-python
+tensorflow
+tqdm
+natsort
